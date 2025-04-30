@@ -2,7 +2,7 @@
 
 I have already created a docker image in docker hub.
 
---rrm is optional: Docker deletes the container immediately after it finishes running
+--rm is optional: Docker deletes the container immediately after it finishes running
 
 
 To use the Docker Image: docker pull bashirg/rep_ml:latest
