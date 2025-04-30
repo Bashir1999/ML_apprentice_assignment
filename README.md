@@ -1,4 +1,4 @@
-# ML_apprentice_assignment
+# Pull the Image from Docker Hub
 
 I have already created a docker image in docker hub.
 
